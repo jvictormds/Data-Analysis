@@ -3,5 +3,4 @@ Repository to store dashboards, analysis, integrations services and others featu
 
 Dashboard developed to Take Blip
 
-https://app.powerbi.com/groups/me/reports/a760bcca-5705-4b3d-b147-666e86468a01/ReportSection?redirectedFromSignup=1
-
+https://app.powerbi.com/view?r=eyJrIjoiZDIzNTg0MTAtZGZjNi00OTAzLWJhNDgtODg3YzE4ZDM4MzlkIiwidCI6IjQ1ZWU5ZDY5LTg4N2MtNGZhMi1hZDZhLTdlMDA4NWVjM2U0ZiJ9&pageName=ReportSection
